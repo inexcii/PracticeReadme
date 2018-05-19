@@ -7,5 +7,5 @@
 ### アピールポイント
 - CocoaPodsを利用してthird-party ライブラリを組み込む
 - API通信は`Alamofire`で、画像の非同期処理は`AlamofireImage`で、JSONハンドリングは`SwiftyJSON`というライブラリを利用すること
-- 画像認識はオンラインサービス「Imagga」を利用すること
+- 画像認識はオンラインサービス[Imagga](https://imagga.com/)を利用すること
 
