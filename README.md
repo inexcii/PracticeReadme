@@ -21,7 +21,8 @@
 	![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmePics/bundle_confirm.png)
 1. Frameworkの「Header Search Paths」を設定する
 ![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmePics/path_settings.png)
-
+1. SDKクラスをソースコードにインポートしてビルドが通ることを確認する
+![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmePics/class_import_success.png)
 
 
 ## Swift言語で作成したプロジェクト
