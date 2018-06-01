@@ -15,7 +15,7 @@
 	![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmePics/link_no_sdk_confirm.png)
 1. 「Build Phases」でBundle Resourcesを追加する
 ![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmePics/bundle_add.png)
-	- プロジェクトに追加したFrameworkを選択して「Add」を押す 
+	- プロジェクトに追加したFrameworkを選択して「Add」を押す　　　　　　　　
 	![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmePics/bundle_choose.png)
 	- FrameworkがBundleに追加されたことを確認する
 	![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmePics/bundle_confirm.png)
