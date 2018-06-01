@@ -19,7 +19,7 @@
 	![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmePics/bundle_choose.png)
 	- SDKがBundleに追加されたことを確認する
 	![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmePics/bundle_confirm.png)
-1. SDKの「Header Search Paths」を設定する
+1. SDKの「Header Search Paths」設定で `$(PROJECT_DIR)/UAEInStreamAds.framework/Headers` を指定する
 ![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmePics/path_settings.png)
 1. SDKクラスをソースコードにインポートしてビルドが通ることを確認する
 ![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmePics/class_import_success.png)
