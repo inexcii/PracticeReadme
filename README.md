@@ -7,19 +7,19 @@
 ![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmePics/add_drag_and_drop.png)
 1. 「Copy items if needed」をチェックして「Finish」を押す
 ![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmePics/add_options.png)
-1. FrameworkがLinkされたことを確認する
+1. SDKがLinkされたことを確認する
 ![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmePics/link_confirm.png)
 	- Linkされていない場合手動で追加する
 	![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmePics/link_no_sdk_add.png)
-	- ローカルディスクにあるFrameworkを選択して「Open」を押す
+	- ローカルディスクにあるSDKを選択して「Open」を押す
 	![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmePics/link_no_sdk_confirm.png)
 1. 「Build Phases」でBundle Resourcesを追加する
 ![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmePics/bundle_add.png)
-	- プロジェクトに追加したFrameworkを選択して「Add」を押す　　　　　　　　
+	- プロジェクトに追加したSDKを選択して「Add」を押す　　　　　　　　　　　　　
 	![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmePics/bundle_choose.png)
-	- FrameworkがBundleに追加されたことを確認する
+	- SDKがBundleに追加されたことを確認する
 	![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmePics/bundle_confirm.png)
-1. Frameworkの「Header Search Paths」を設定する
+1. SDKの「Header Search Paths」を設定する
 ![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmePics/path_settings.png)
 1. SDKクラスをソースコードにインポートしてビルドが通ることを確認する
 ![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmePics/class_import_success.png)
