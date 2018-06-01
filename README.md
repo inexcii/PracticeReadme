@@ -1,7 +1,7 @@
 
 # SDKをアプリに導入
 
-## Objective-C言語で作成したプロジェクト
+## Objective-C言語で作成したプロジェクトの場合
 
 1. SDK(UAEInStreamAds.frameworkファイル)をプロジェクトに追加する
 ![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmePics/add_drag_and_drop.png)
@@ -25,6 +25,6 @@
 ![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmePics/class_import_success.png)
 
 
-## Swift言語で作成したプロジェクト
+## Swift言語で作成したプロジェクトの場合
 
 
