@@ -11,9 +11,9 @@
 ![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmeImages/objc/add_drag_and_drop.png)
 1. 「Copy items if needed」をチェックして「Finish」ボタンを押す
 ![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmeImages/objc/add_options.png)
-1. SDKがLinkされたことを確認する
+1. SDKがリンクされたことを確認する
 ![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmeImages/objc/link_confirm.png)
-	- Linkされていない場合に手動で追加する
+	- リンクされていない場合に手動で追加する
 	![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmeImages/objc/link_no_sdk_add.png)
 	- ローカルディスクにあるSDKを選択して「Open」ボタンを押す
 	![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmeImages/objc/link_no_sdk_confirm.png)
@@ -35,9 +35,9 @@
 ![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmeImages/swift/1_1_add_drag_and_drop.png)
 	- 「Copy items if needed」をチェックして「Finish」ボタンを押す
 	![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmeImages/swift/1_2_add_options.png)
-1. SDKがLinkされたことを確認する
+1. SDKがリンクされたことを確認する
 ![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmeImages/swift/2_1_link_confirm.png)
-	- Linkされていない場合に手動で追加する
+	- リンクされていない場合に手動で追加する
 	![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmeImages/swift/2_2_link_no_sdk_add.png)
 	- ローカルディスクにあるSDKを選択して「Open」ボタンを押す
 	![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmeImages/swift/2_3_link_no_sdk_confirm.png)
