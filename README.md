@@ -1,9 +1,10 @@
 
 # SDK導入ガイド
 
-- [Objc](##Objective-C言語で作成されたアプリの場合)
-- [Swift](##Swift言語で作成されたアプリの場合)
+- [Objc](##Objc)
+- [Swift](##Swift)
 
+## Objc
 ## Objective-C言語で作成されたアプリの場合
 
 1. SDK(UAEInStreamAds.frameworkファイル)をプロジェクトに追加する
@@ -27,7 +28,7 @@
 1. SDKクラスをソースコードにインポートしてビルドが通ることを確認する
 ![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmeImages/objc/class_import_success.png)
 
-
+## Swift
 ## Swift言語で作成されたアプリの場合
 
 1. SDK(UAEInStreamAds.frameworkファイル)をプロジェクトに追加する
