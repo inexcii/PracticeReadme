@@ -1,6 +1,9 @@
 
 # SDK導入ガイド
 
+- [Objc](##Objective-C言語で作成されたアプリの場合)
+- [Swift](##Swift言語で作成されたアプリの場合)
+
 ## Objective-C言語で作成されたアプリの場合
 
 1. SDK(UAEInStreamAds.frameworkファイル)をプロジェクトに追加する
