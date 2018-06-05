@@ -1,8 +1,8 @@
 
 # SDK導入ガイド
 
-- [Objc](##Objc)
-- [Swift](##Swift)
+- [Objc](#objc)
+- [Swift](#swift)
 
 ## Objc
 ## Objective-C言語で作成されたアプリの場合
