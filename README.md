@@ -8,25 +8,25 @@
 ## Objective-C言語で作成されたアプリの場合
 
 1. SDK(UAEInStreamAds.frameworkファイル)をプロジェクトに追加する
-![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmeImages/objc/add_drag_and_drop.png)
-1. 「Copy items if needed」をチェックして「Finish」ボタンを押す
-![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmeImages/objc/add_options.png)
+![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmeImages/objc/1_1_add_drag_and_drop.png)
+	- 「Copy items if needed」をチェックして「Finish」ボタンを押す
+![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmeImages/objc/1_2_add_options.png)
 1. SDKがリンクされたことを確認する
-![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmeImages/objc/link_confirm.png)
+![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmeImages/objc/2_1_link_confirm.png)
 	- リンクされていない場合に手動で追加する
-	![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmeImages/objc/link_no_sdk_add.png)
+	![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmeImages/objc/2_2_link_no_sdk_add.png)
 	- ローカルディスクにあるSDKを選択して「Open」ボタンを押す
-	![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmeImages/objc/link_no_sdk_confirm.png)
+	![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmeImages/objc/2_3_link_no_sdk_confirm.png)
 1. 「Build Phases」タグでBundle Resourcesを追加する
-![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmeImages/objc/bundle_add.png)
+![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmeImages/objc/3_1_bundle_add.png)
 	- プロジェクトに追加したSDKを選択して「Add」ボタンを押す　　　　　　　　　　　　　
-	![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmeImages/objc/bundle_choose.png)
+	![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmeImages/objc/3_2_bundle_choose.png)
 	- SDKがBundleに追加されたことを確認する
-	![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmeImages/objc/bundle_confirm.png)
+	![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmeImages/objc/3_3_bundle_confirm.png)
 1. SDKが 「Build Settings」タグの _Header Search Paths_ 設定で `$(PROJECT_DIR)/UAEInStreamAds.framework/Headers` を指定する
-![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmeImages/objc/path_settings.png)
+![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmeImages/objc/4_1_path_settings.png)
 1. SDKクラスをソースコードにインポートしてビルドが通ることを確認する
-![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmeImages/objc/class_import_success.png)
+![image](https://github.com/inexcii/PracticeReadme/blob/master/ReadmeImages/objc/5_1_class_import_success.png)
 
 
 ## Swift言語で作成されたアプリの場合
